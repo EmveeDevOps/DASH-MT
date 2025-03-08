@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: trading_dashboard_mt
+  main:
+    banner-mode: off
